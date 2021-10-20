@@ -1,7 +1,5 @@
 #include "menu.h"
-//We know that check if bounds should be in the board but we want to make the right execption 
-//and we still didnt learn try and catch so we make check if bounds in the menu for execption 
-//and check if bound in the board!
+
 void main()
 {
 	{
